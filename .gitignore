@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/App.config
+/bin/Debug/The-Project-Euler.exe
+/bin/Debug/The-Project-Euler.exe.config
+/bin/Debug/The-Project-Euler.pdb
+/obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
+/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
+/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+/obj/Debug/The-Project-Euler.csproj.CoreCompileInputs.cache
+/obj/Debug/The-Project-Euler.csproj.FileListAbsolute.txt
+/Properties/AssemblyInfo.cs
+/obj/Debug/The-Project-Euler.pdb
+/obj/Debug/The-Project-Euler.csprojAssemblyReference.cache
+/obj/Debug/The-Project-Euler.exe
+/The-Project-Euler.csproj
